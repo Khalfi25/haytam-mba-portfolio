@@ -1,0 +1,41 @@
+---
+title: "Home"
+---
+
+# Welcome to My MBA Portfolio
+
+My name is **Haytam Khalfi**, an MBA student at University Canada West with a strong academic background in **Management, Supply Chain, and Logistics**. I am passionate about business operations, problem-solving, and building the competencies needed to thrive in modern organizations.
+
+Through this portfolio, I aim to demonstrate my academic growth, professional journey, and the projects that reflect my evolving skills.
+
+---
+
+## About Me
+
+- Bachelor of Science in Management & Supply Chain / Logistics  
+- Experience in **warehouse operations, inventory control, public relations, and digital content strategy**  
+- Strong interest in **business leadership, analytics, and process efficiency**  
+- Certified in **Design Thinking for Innovation**
+
+---
+
+## Career Goals
+
+I aspire to build a career in:
+
+- Supply Chain & Logistics Operations  
+- Procurement & Inventory Management  
+- Business Strategy  
+- Operations Management  
+
+My MBA is strengthening my ability to analyze data, manage projects, communicate effectively, and contribute to organizational performance.
+
+---
+
+## Explore My Portfolio
+
+- [Resume](resume.qmd)  
+- [Projects](projects.qmd)  
+- [Skills](skills.qmd)  
+- [Leadership & Community](leadership.qmd)  
+- [Contact](contact.qmd)
